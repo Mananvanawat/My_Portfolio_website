@@ -1,4 +1,5 @@
-This is my portfolio website I have created using React.js
+This is my portfolio website I have created using React.js.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
